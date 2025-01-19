@@ -4,7 +4,17 @@
 SolGen is a powerful and user-friendly tool for generating Solana wallets, checking balances, and interacting with the CoinStats API to handle blockchain-related information. SolGen is inspired by the outstanding work of dante4rt's SPL-wallet-generator and builds upon it with additional features and enhancements.
 
 
+# 🤓 Context
 
+The Improbability of Generating an Active Cryptocurrency Wallet
+
+Cryptocurrency wallets rely on private keys, which are generated using extremely large numbers to ensure security. The private key space is based on a 256-bit number, offering 2²⁵⁶ possible combinations—approximately 1.16 x 10⁷⁷. To put this into perspective, this is vastly larger than the number of atoms in the observable universe.
+
+To “guess” or generate an active wallet with a balance, one would not only need to randomly select a valid private key but also stumble upon a wallet that has received funds. Given the massive keyspace and the relatively small number of wallets in use, the chances are astronomically low. Even with the fastest computers, it would take longer than the age of the universe to have a realistic chance of success. This immense improbability is what makes cryptocurrencies secure by design.
+
+But if you in some way manage to break these astronomically small odds a tip would be greatly appriciated:
+
+Sol: GYMQAxafvpBX7msKFjwVUBGphYbo7KZyJjaRxvEdxDrL
 
 # 🔥 Features
 
