@@ -1,0 +1,12 @@
+# Node modules och pakethantering
+node_modules/
+package-lock.json
+
+# Filer genererade av programmet
+results.txt
+api_response.txt
+error_log.txt
+
+# OS-specifika filer
+.DS_Store
+Thumbs.db
